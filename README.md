@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andres Higuita</h1>
-<h3 align="center">Desarrollador web full stack, apasionado por la tecnología, el diseño, la música y el arte en general.</h3>
+<h3 align="center">Desarrollador Web Full Stack, apasionado por la tecnología, el diseño, la música y el arte en general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreshiguitaamg&label=Profile%20views&color=0e75b6&style=flat" alt="andreshiguitaamg" /> </p>
 
@@ -25,6 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreshiguitaamg&show_icons=true&locale=en&layout=compact" alt="andreshiguitaamg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreshiguitaamg&show_icons=true&locale=en" alt="andreshiguitaamg" /></p>
+
+
 
 
 
