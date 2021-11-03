@@ -1,17 +1,15 @@
-<h1 align="center">Hola 👋, soy Andres Higuita</h1>
+<h1 align="center">Hola 👋, soy Andrés Higuita</h1>
 <h3 align="center">Desarrollador Web Full Stack, apasionado por la tecnología, el diseño, la música y el arte en general.</h3>
-
-<p align="left"> <a href="https://twitter.com/andreshiguitaam" target="blank"><img src="https://img.shields.io/twitter/follow/andreshiguitaam?logo=twitter&style=for-the-badge" alt="andreshiguitaam" /></a> </p>
 
 - 🔭Por el momento estoy trabajndo en este proyecto [Dogpedia](https://github.com/AndresHiguitaAMG/PI-Dogs-FT-18a)
 
-- 🌱 Actualmente estoy aprendiendo **Typescript y .Net, también sigo especializandome en React**
+- 🌱 Actualmente estoy aprendiendo **Manuscrito y .Net, también sigo especializandome en Reaccionar**
 
 - 📫 Contacto **andreshiguitaamg@gmail.com**
 
 - ⚡ Dato curioso **amo el café ☕😁**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectar con me:</h3>
 <p align="left">
 <a href="https://twitter.com/andreshiguitaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreshiguitaam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edwinandreshiguita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwinandreshiguita" height="30" width="40" /></a>
