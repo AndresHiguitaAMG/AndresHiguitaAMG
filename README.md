@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/andreshiguitaam" target="blank"><img src="https://img.shields.io/twitter/follow/andreshiguitaam?logo=twitter&style=for-the-badge" alt="andreshiguitaam" /></a> </p>
 
-- 🔭 Actualmente estoy trabajndo en este proyecto [Dogpedia](https://github.com/AndresHiguitaAMG/PI-Dogs-FT-18a)
+- 🔭Por el momento estoy trabajndo en este proyecto [Dogpedia](https://github.com/AndresHiguitaAMG/PI-Dogs-FT-18a)
 
 - 🌱 Actualmente estoy aprendiendo **Typescript y .Net, también sigo especializandome en React**
 
-- 📫 Cómo contactarme **andreshiguitaamg@gmail.com**
+- 📫 Contacto **andreshiguitaamg@gmail.com**
+
+- ⚡ Dato curioso **amo el café ☕😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreshiguitaamg&show_icons=true&locale=en&layout=compact" alt="andreshiguitaamg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreshiguitaamg&show_icons=true&locale=en" alt="andreshiguitaamg" /></p>
+
 
 
 
