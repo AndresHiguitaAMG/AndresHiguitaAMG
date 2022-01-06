@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreshiguitaamg&label=Profile%20views&color=0e75b6&style=flat" alt="andreshiguitaamg" /> </p>
 
-- 🔭Por el momento estoy trabajando en este proyecto [The videogame zone](https://github.com/AndresHiguitaAMG/PI-Videogames-FT-19a)
+- 🔭Por el momento estoy trabajando en este proyecto [Henry Dex](https://github.com/AndresHiguitaAMG/PI-Pokemon-FT-15a)
 
 - 🌱 Actualmente estoy aprendiendo **Typescript y .Net, también sigo especializandome en React**
 
