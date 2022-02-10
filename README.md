@@ -5,7 +5,7 @@
 
 - 🔭Por el momento estoy trabajando en este proyecto [Henry Dex](https://github.com/AndresHiguitaAMG/PI-Pokemon-FT-15a)
 
-- 🌱 Actualmente estoy aprendiendo **Typescript y .Net, también sigo especializandome en React**
+- 🌱 Actualmente ** me sigo especializandome en React**
 
 - 📫 Contacto **andreshiguitaamg@gmail.com**
 
