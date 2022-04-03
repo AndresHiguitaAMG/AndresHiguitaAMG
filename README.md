@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andres Higuita</h1>
-<h3 align="center">Desarrollador Web Full Stack, apasionado por la tecnología, el audio, la música, el diseño y el arte en general.</h3>
+<h3 align="center">Desarrollador web full stack, apasionado por la tecnología, el audio, la música, el diseño y el arte en general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreshiguitaamg&label=Profile%20views&color=0e75b6&style=flat" alt="andreshiguitaamg" /> </p>
 
