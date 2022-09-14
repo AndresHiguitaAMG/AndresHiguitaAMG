@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hola 👋, soy Andres Higuita</h1>
 <h3 align="center">Desarrollador web full stack, apasionado por la tecnología, el audio, la música, el diseño y el arte en general.</h3>
 
@@ -25,6 +29,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreshiguitaamg&show_icons=true&locale=en&layout=compact&theme=dark" alt="andreshiguitaamg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreshiguitaamg&show_icons=true&locale=en&theme=dark" alt="andreshiguitaamg" /></p>
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+  
 
 
 
