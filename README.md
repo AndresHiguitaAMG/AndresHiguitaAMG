@@ -28,11 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreshiguitaamg&show_icons=true&locale=en&layout=compact&theme=dark" alt="andreshiguitaamg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreshiguitaamg&show_icons=true&locale=en&theme=dark" alt="andreshiguitaamg" /></p>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreshiguitaamg&show_icons=true&locale=en&theme=dark" alt="andreshiguitaamg" /></p> 
 
   
 
