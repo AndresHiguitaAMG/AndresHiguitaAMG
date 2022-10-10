@@ -7,7 +7,7 @@
 <h3 align="center">Desarrollador web full stack, apasionado por la tecnología, el audio, la música, el diseño y el arte en general.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreshiguitaamg&label=Profile%20views&color=0e75b6&style=flat" alt="andreshiguitaamg" /> </p>
 
-- 🔭Trabaje en este proyecto en este proyecto [geography app](https://github.com/AndresHiguitaAMG/PI-Countries-FT-16a)
+- 🔭Trabajé en este proyecto en este proyecto [geography app](https://github.com/AndresHiguitaAMG/PI-Countries-FT-16a)
 
 - 🌱 Actualmente sigo especializandome en React
 
