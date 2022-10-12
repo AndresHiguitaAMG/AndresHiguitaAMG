@@ -13,7 +13,7 @@
 
 - 📫 Contacto **andreshiguitaamg@gmail.com**
 
-- ⚡ Dato curioso **amo el café ☕😁**
+- ⚡ Dato curioso **amo el café ☕😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
