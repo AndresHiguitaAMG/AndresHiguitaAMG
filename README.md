@@ -11,7 +11,7 @@
 
 - 🌱 Actualmente me estoy especializando en React.js.
 
-- 📫 Contacto **andreshiguitaamg@gmail.com**.
+- 📫 Contacto **andreshiguitaamg@gmail.com**
 
 - ⚡ Dato curioso **amo el café ☕😋**.
 
