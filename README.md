@@ -9,7 +9,7 @@
 
 - 🔭Trabajé en este proyecto [geography app](https://github.com/AndresHiguitaAMG/PI-Countries-FT-16a).
 
-- 🌱 Actualmente me estoy especializando en React.js y Java.
+- 🌱 Actualmente me estoy especializando en React.js y Java
 
 - 📫 Contacto **andreshiguitaamg@gmail.com**.
 
